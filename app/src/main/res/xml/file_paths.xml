@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Generated assessment reports (PDF) live in the app cache and are shared read-only. -->
+    <cache-path name="reports" path="reports/" />
+</paths>

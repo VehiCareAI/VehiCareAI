@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   VehiCare AI is local-first: vehicles, assessments and preferences stay on this device and are
+   never copied into cloud backup. See AGENTS.md Section 9.
+-->
+<full-backup-content>
+    <exclude domain="database" path="." />
+    <exclude domain="sharedpref" path="." />
+    <exclude domain="file" path="." />
+</full-backup-content>
